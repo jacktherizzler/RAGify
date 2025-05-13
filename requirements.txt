@@ -1,0 +1,13 @@
+streamlit
+
+langchain
+langchain-community
+faiss-cpu
+pymupdf
+python-docx
+wikipedia
+newspaper3k
+sentence-transformers
+huggingface_hub
+lxml[html_clean]
+# openai # Commented out as it's no longer directly used for core functionality
